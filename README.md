@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vert.x Kotlin Example
 
 Basic JSON API written in [Kotlin](https://kotlinlang.org/) to demonstrate how it can be used with Vert.x.
@@ -52,3 +53,6 @@ git push heroku master
 ```
 
 *Note:* All your changes must be committed to Git before issuing the last command.
+=======
+# Vertx-Kotlin-Gradle
+>>>>>>> 4e24920ec10e0a06e75cd34e74471abe816fd748
